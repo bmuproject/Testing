@@ -8,6 +8,10 @@
     border: 5px solid rgb(255, 255, 255);
     box-shadow: rgba(27, 27, 27, 0.878) 0px 30px 30px -20px;
     margin: 20px;    
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    transform: translate(-50% -50%);
   }
   
   .heading {
